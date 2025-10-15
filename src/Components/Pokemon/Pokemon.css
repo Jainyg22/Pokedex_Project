@@ -17,15 +17,15 @@
     padding-bottom:0.1rem;
     font-family:'Gill Sans';
     letter-spacing: 0.45rem;
-    /* color:white; */
-    /* background-color:black; */
+    color:white;
+    background-color:black; 
     text-transform: capitalize;
 
 }
 .pokemon-image{
     margin-top:1rem;
     height:150px;
-    max-height:80%;
+    max-height:75%;
 }
 .pokemon:hover{
     background-color: beige;
